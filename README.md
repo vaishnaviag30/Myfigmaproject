@@ -3,7 +3,9 @@ My Figma Project: Shopping App 🎨🛍️
 Welcome to the Shopping App project! This repository contains the resources and documentation for a shopping app prototype designed entirely in Figma.
 
 🔗 Figma Prototype
+
 Explore the interactive prototype here:
+
 Shopping App Prototype
 
 📝 About the Project
@@ -25,9 +27,12 @@ Cart & Checkout: Includes a detailed cart summary and a mock checkout process.
 
 🛠️ Tools Used
 Figma: For creating the prototype, mockups, and interactive user flows.
+
 📧 Feedback
 Have suggestions or feedback about the design? Feel free to open an issue or reach out directly!
 
 👩‍💻 Author
-Vaishnavi Agrawal
+
+Vaishnavi Agrahari
+
 GitHub
